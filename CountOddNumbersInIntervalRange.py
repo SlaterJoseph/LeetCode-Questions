@@ -1,5 +1,8 @@
+# Link --> https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+
 class Solution:
     def countOdds(self, low: int, high: int) -> int:
+        # Plan
         # Use arithmetic. Find the difference between the low and high number
         # If the low number is even, it is the difference / 2
         # If the low number is odd, it is the (difference / 2) + 1
