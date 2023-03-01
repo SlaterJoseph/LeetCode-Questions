@@ -6,7 +6,7 @@ This is a compilation of some of the LeetCode questions I have completed
 
 
 ### Java
-- Sort sn Array
+- Sort an Array
 - Letter Combonations of a Phone number
 - Find Duplicate Subtrees
 - Jump Game 2
@@ -16,3 +16,4 @@ This is a compilation of some of the LeetCode questions I have completed
 - Reverse Vowels of a String
 - Longest Substring Without Repeating Characters
 - Count Odd Numbers in Interval Range
+- Count and Say
