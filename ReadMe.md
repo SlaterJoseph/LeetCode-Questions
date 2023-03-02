@@ -10,6 +10,7 @@ This is a compilation of some of the LeetCode questions I have completed
 - Letter Combonations of a Phone number
 - Find Duplicate Subtrees
 - Jump Game 2
+- String Compression
 -----------------------------
 
 ### Python
