@@ -18,3 +18,4 @@ This is a compilation of some of the LeetCode questions I have completed
 - Longest Substring Without Repeating Characters
 - Count Odd Numbers in Interval Range
 - Count and Say
+- Find the Index of the First Occurrence in a String
