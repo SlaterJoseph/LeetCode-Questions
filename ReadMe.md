@@ -22,3 +22,4 @@ This is a compilation of some of the LeetCode questions I have completed
 - Find the Index of the First Occurrence in a String
 - Minimum Cuts to Divide a Circle
 - Convert the Temperature
+- Number of Distinct Averages
