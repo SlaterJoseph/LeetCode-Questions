@@ -21,3 +21,4 @@ This is a compilation of some of the LeetCode questions I have completed
 - Count and Say
 - Find the Index of the First Occurrence in a String
 - Minimum Cuts to Divide a Circle
+- Convert the Temperature
