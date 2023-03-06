@@ -11,6 +11,7 @@ This is a compilation of some of the LeetCode questions I have completed
 - Find Duplicate Subtrees
 - Jump Game 2
 - String Compression
+- Kth Missing Positive Number
 -----------------------------
 
 ### Python
