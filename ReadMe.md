@@ -26,3 +26,4 @@ This is a compilation of some of the LeetCode questions I have completed
 - Number of Distinct Averages
 - Koko Eating Bananas
 - Kth Smallest Element in a Sorted Matrix
+- Find the Minimum and Maximum Number of Nodes between Critical Points
