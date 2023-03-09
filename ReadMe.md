@@ -25,3 +25,4 @@ This is a compilation of some of the LeetCode questions I have completed
 - Convert the Temperature
 - Number of Distinct Averages
 - Koko Eating Bananas
+- Kth Smallest Element in a Sorted Matrix
