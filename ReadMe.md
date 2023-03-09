@@ -24,3 +24,4 @@ This is a compilation of some of the LeetCode questions I have completed
 - Minimum Cuts to Divide a Circle
 - Convert the Temperature
 - Number of Distinct Averages
+- Koko Eating Bananas
