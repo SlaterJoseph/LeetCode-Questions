@@ -15,6 +15,7 @@ This is a compilation of some of the LeetCode questions I have completed
 - Linked List Cycle 2
 - Find the Pivot Intger
 - Sum Root to Leaf Numbers
+- Shortest Way to Form String
 
 -----------------------------
 
