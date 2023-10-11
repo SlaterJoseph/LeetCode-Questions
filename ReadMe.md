@@ -16,6 +16,7 @@ This is a compilation of some of the LeetCode questions I have completed
 - Find the Pivot Intger
 - Sum Root to Leaf Numbers
 - Shortest Way to Form String
+- Number of Pairs of Strings With Concatenation Equal to Target
 
 -----------------------------
 
