@@ -18,6 +18,7 @@ This is a compilation of some of the LeetCode questions I have completed
 - Shortest Way to Form String
 - Number of Pairs of Strings With Concatenation Equal to Target
 - Using a Robot to Print the Lexicographically Smallest String
+- Interval List Intersections
 
 -----------------------------
 
